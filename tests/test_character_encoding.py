@@ -13,10 +13,13 @@ parser = argparse.ArgumentParser(description = 'This script allows data selectio
 parser.add_argument('--file', required=True, help='The Total Diet Study file to be analyzed.')
 parser.add_argument('--analyte', required=True, help='The analyte that is to be extracted, e.g. Arsenic.')
 parser.add_argument('--type', required=True, help='The type of analyte that the Total Diet Study input file is measuring, e.g. Element.')
+parser.add_argument('--out', required=True, help='The directory where you want output files written.')
 parser.add_argument('--number', required=False, help='optional: The Food Number associated with a specific food.')
 parser.add_argument('--cutoff', required=False, help='optional: Specifiy a new cut-off concentration, default=0.')
 args = parser.parse_args()
 
-print(args.number)
+rawdata = open(args.file, 'rb').read()
+result = chardet.detect(rawdata)
+charenc = result['encoding']
 
-print(args)
+print(charenc)

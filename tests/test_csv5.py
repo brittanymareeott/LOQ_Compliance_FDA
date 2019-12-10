@@ -3,6 +3,7 @@
 
 # import the necessary packages
 import csv
+import pandas as pd
 from pandas import DataFrame
 import argparse
 import sys
@@ -17,6 +18,30 @@ parser.add_argument('--number', required=False, help='optional: The Food Number 
 parser.add_argument('--cutoff', required=False, help='optional: Specifiy a new cut-off concentration, default=0.')
 args = parser.parse_args()
 
-print(args.number)
+# determining the file encoding for reading by pandas
+rawdata = open(args.file, 'rb').read()
+result = chardet.detect(rawdata)
+charenc = result['encoding']
 
-print(args)
+# reading in the file
+file = pd.read_csv(args.file, sep='\t', dtype=str, encoding=charenc)
+
+# obtaining the rows that contain the desired analyte
+df1 = file[file[args.type].str.contains(args.analyte)]
+
+#incorporating food number; currently sorting this out
+#df2 = df1[df1['Food No.'].str.contains(args.number))]
+
+# removes rows containing RAP
+df_remove = df2[df2['Sample Qualifier'].str.contains('UAP', '', na=True, regex=False)]
+
+# tests 
+
+#### Generating the output file ####
+
+# Code for printing to a file 
+output = open('Results.txt', 'w') 
+
+df_remove.to_csv(output, sep='\t')
+
+output.close()
