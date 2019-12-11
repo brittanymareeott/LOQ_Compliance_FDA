@@ -1,0 +1,111 @@
+	MB	Food No.	Food Name	Anal Type	Sample Qualifier	Replicate No.	Element	Conc	Unit	Trace	LOD	LOQ	Result Qualifier and Remarks	Method	Instrument	Batch ID
+44	200301	4	Milk, skim, fluid	O			Arsenic	0.015	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+212	200301	26	Turkey breast, oven-roasted	O			Arsenic	0.011000000000000001	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+284	200301	34	Fish sticks or patty, frozen, oven-cooked	O			Arsenic	0.5820000000000001	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	311
+399	200301	48	Peanuts, dry roasted, salted	O			Arsenic	0.027000000000000003	mg/kg	TR	0.02	0.05		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+413	200301	50	Rice, white, enriched, cooked	O			Arsenic	0.077	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+428	200301	51	Oatmeal, plain, cooked	O			Arsenic	0.011000000000000001	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+598	200301	66	Crackers, saltine	O			Arsenic	0.023	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+612	200301	67	Corn/tortilla chips	O			Arsenic	0.012	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+654	200301	72	Fruit-flavored cereal, presweetened	O			Arsenic	0.023	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+697	200301	75	Crisped rice cereal	O			Arsenic	0.18100000000000002	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+712	200301	76	Granola w/ raisins	O			Arsenic	0.018000000000000002	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+824	200301	85	Pear, raw (w/ peel)	O			Arsenic	0.008	mg/kg	TR	0.008	0.03		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+866	200301	88	Grapes (red/green), raw	O			Arsenic	0.008	mg/kg	TR	0.008	0.03		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+1025	200301	107	Spinach, fresh/frozen, boiled	O			Arsenic	0.008	mg/kg	TR	0.008	0.03		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+1197	200301	123	Cucumber, peeled, raw	O			Arsenic	0.01	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	313
+1786	200301	199	Wine, dry table, red/ white	O			Arsenic	0.015	mg/kg	TR	0.006	0.02		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	313
+2201	200301	244	Shrimp, boiled	O			Arsenic	0.5670000000000001	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	314
+2328	200301	257	Grape juice, frozen conc, reconstituted	O			Arsenic	0.009000000000000001	mg/kg	TR	0.008	0.03		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	311
+2398	200301	264	Mushrooms, raw	O			Arsenic	0.046	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	313
+2455	200301	268	Mixed vegetables, frozen, boiled	O			Arsenic	0.011000000000000001	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	312
+2483	200301	272	Tuna noodle casserole, homemade	O			Arsenic	0.19899999999999998	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	314
+2512	200301	276	Fish sandwich on bun, fast-food	O			Arsenic	0.5770000000000001	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	314
+2583	200301	285	Clam chowder, New England, canned, cond, prep w/ whl milk	O			Arsenic	0.059000000000000004	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	314
+2866	200301	318	Salmon, steaks/fillets, baked	O			Arsenic	0.6409999999999999	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	314
+2909	200301	324	BF, cereal, rice, dry, prep w/ water	O			Arsenic	0.042	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	311
+2924	200301	325	BF, cereal, rice w/apples, dry, prep w/ water	O			Arsenic	0.027000000000000003	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	311
+3051	200301	336	Chicken breast, fried, fast-food (w/ skin)	O			Arsenic	0.011000000000000001	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	311
+3081	200301	338	Chicken leg, fried, fast-food  (w/ skin)	O			Arsenic	0.012	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	311
+3111	200301	340	Tuna, canned in water, drained	O			Arsenic	1.113	mg/kg		0.012	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	311
+3435	200301	364	Fried rice, meatless, from Chinese carry-out	O			Arsenic	0.044000000000000004	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	311
+3938	200302	26	Turkey breast, oven-roasted	O			Arsenic	0.018000000000000002	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	322
+4010	200302	34	Fish sticks or patty, frozen, oven-cooked	O			Arsenic	0.512	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	322
+4138	200302	50	Rice, white, enriched, cooked	O			Arsenic	0.06	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	322
+4323	200302	66	Crackers, saltine	O			Arsenic	0.021	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	322
+4379	200302	72	Fruit-flavored cereal, presweetened	O			Arsenic	0.027999999999999997	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	322
+4408	200302	74	Raisin bran cereal	O			Arsenic	0.017	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	322
+4422	200302	75	Crisped rice cereal	O			Arsenic	0.107	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	322
+4437	200302	76	Granola w/ raisins	O			Arsenic	0.012	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	322
+4451	200302	77	Oat ring cereal	O			Arsenic	0.035	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+4647	200302	95	Raisins	O			Arsenic	0.023	mg/kg	TR	0.02	0.05		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	322
+4692	200302	99	Apple juice, bottled	O			Arsenic	0.011000000000000001	mg/kg	TR	0.008	0.03		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+4750	200302	107	Spinach, fresh/frozen, boiled	O			Arsenic	0.009000000000000001	mg/kg	TR	0.008	0.03		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	323
+4922	200302	123	Cucumber, peeled, raw	O			Arsenic	0.017	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	323
+4950	200302	125	Pepper, sweet, green, raw	O			Arsenic	0.018000000000000002	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	323
+5174	200302	161	Dill cucumber pickles	O			Arsenic	0.012	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	323
+5627	200302	214	BF, chicken noodle dinner	O			Arsenic	0.01	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+5641	200302	215	BF, macaroni, tomato and beef	O			Arsenic	0.01	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+5926	200302	244	Shrimp, boiled	O			Arsenic	0.439	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	323
+6053	200302	257	Grape juice, frozen conc, reconstituted	O			Arsenic	0.01	mg/kg	TR	0.008	0.03		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+6123	200302	264	Mushrooms, raw	O			Arsenic	0.092	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	323
+6208	200302	272	Tuna noodle casserole, homemade	O			Arsenic	0.11800000000000001	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	323
+6237	200302	276	Fish sandwich on bun, fast-food	O			Arsenic	0.384	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	323
+6308	200302	285	Clam chowder, New England, canned, cond, prep w/ whl milk	O			Arsenic	0.185	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	323
+6577	200302	317	BF, teething biscuits	O			Arsenic	0.012	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+6634	200302	324	BF, cereal, rice, dry, prep w/ water	O			Arsenic	0.047	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+6649	200302	325	BF, cereal, rice w/apples, dry, prep w/ water	O			Arsenic	0.026000000000000002	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+6776	200302	336	Chicken breast, fried, fast-food (w/ skin)	O			Arsenic	0.037000000000000005	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+6791	200302	337	Chicken thigh, oven-roasted (skin removed)	O			Arsenic	0.021	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+6806	200302	338	Chicken leg, fried, fast-food  (w/ skin)	O			Arsenic	0.038	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+6836	200302	340	Tuna, canned in water, drained	O			Arsenic	1.0590000000000002	mg/kg		0.012	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+6963	200302	350	Fruit juice blend (100% juice), canned/bottled	O			Arsenic	0.008	mg/kg	TR	0.008	0.03		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+7075	200302	358	Sweet potatoes, canned	O			Arsenic	0.01	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+7131	200302	362	Beef w/ vegetables in sauce, from Chinese carry-out	O			Arsenic	0.01	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+7146	200302	363	Chicken w/ vegetables in sauce, from Chinese carry-out	O			Arsenic	0.026000000000000002	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+7160	200302	364	Fried rice, meatless, from Chinese carry-out	O			Arsenic	0.106	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+7189	200302	366	Chicken filet (broiled) sandwich on bun, fast-food	O			Arsenic	0.011000000000000001	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+7245	200302	370	Granola bar, w/ raisins	O			Arsenic	0.043	mg/kg		0.012	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	321
+7736	200303	34	Fish sticks or patty, frozen, oven-cooked	O			Arsenic	0.43700000000000006	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	332
+7865	200303	50	Rice, white, enriched, cooked	O			Arsenic	0.076	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	332
+8135	200303	74	Raisin bran cereal	O			Arsenic	0.013000000000000001	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	333
+8149	200303	75	Crisped rice cereal	O			Arsenic	0.09699999999999999	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	332
+8164	200303	76	Granola w/ raisins	O			Arsenic	0.027999999999999997	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	333
+9653	200303	244	Shrimp, boiled	O			Arsenic	1.232	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	333
+9850	200303	264	Mushrooms, raw	O			Arsenic	0.057	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	333
+9964	200303	276	Fish sandwich on bun, fast-food	O			Arsenic	0.444	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	333
+10035	200303	285	Clam chowder, New England, canned, cond, prep w/ whl milk	O			Arsenic	0.075	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	333
+10361	200303	324	BF, cereal, rice, dry, prep w/ water	O			Arsenic	0.031	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	331
+10376	200303	325	BF, cereal, rice w/apples, dry, prep w/ water	O			Arsenic	0.032	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	331
+10503	200303	336	Chicken breast, fried, fast-food (w/ skin)	O			Arsenic	0.03	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	331
+10518	200303	337	Chicken thigh, oven-roasted (skin removed)	O			Arsenic	0.016	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	331
+10533	200303	338	Chicken leg, fried, fast-food  (w/ skin)	O			Arsenic	0.04	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	331
+10563	200303	340	Tuna, canned in water, drained	O			Arsenic	0.9329999999999999	mg/kg		0.012	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	331
+10690	200303	350	Fruit juice blend (100% juice), canned/bottled	O			Arsenic	0.008	mg/kg	TR	0.008	0.03		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	331
+10858	200303	362	Beef w/ vegetables in sauce, from Chinese carry-out	O			Arsenic	0.015	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	332
+10873	200303	363	Chicken w/ vegetables in sauce, from Chinese carry-out	O			Arsenic	0.013999999999999999	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	332
+10887	200303	364	Fried rice, meatless, from Chinese carry-out	O			Arsenic	0.075	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	332
+10972	200303	370	Granola bar, w/ raisins	O			Arsenic	0.028999999999999998	mg/kg	TR	0.012	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	332
+11406	200304	26	Turkey breast, oven-roasted	O			Arsenic	0.017	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	342
+11483	200304	34	Fish sticks or patty, frozen, oven-cooked	O			Arsenic	0.272	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+11621	200304	50	Rice, white, enriched, cooked	O			Arsenic	0.09300000000000001	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+12198	200304	98	Orange juice, frozen conc, reconstituted	O			Arsenic	0.019	mg/kg	TR	0.008	0.03		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+13091	200304	199	Wine, dry table, red/ white	O			Arsenic	0.009000000000000001	mg/kg	TR	0.006	0.02		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	343
+13382	200304	230	BF, juice, apple	O			Arsenic	0.013999999999999999	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+13428	200304	233	BF, fruit dessert/pudding	O			Arsenic	0.018000000000000002	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+13535	200304	244	Shrimp, boiled	O			Arsenic	0.49	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	343
+13746	200304	264	Mushrooms, raw	O			Arsenic	0.109	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	343
+13762	200304	265	Eggplant, fresh, peeled, boiled	O			Arsenic	0.022000000000000002	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	343
+13868	200304	276	Fish sandwich on bun, fast-food	O			Arsenic	0.188	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	343
+13944	200304	285	Clam chowder, New England, canned, cond, prep w/ whl milk	O			Arsenic	0.151	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	343
+14247	200304	318	Salmon, steaks/fillets, baked	O			Arsenic	0.636	mg/kg		0.02	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	343
+14293	200304	324	BF, cereal, rice, dry, prep w/ water	O			Arsenic	0.049	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+14309	200304	325	BF, cereal, rice w/apples, dry, prep w/ water	O			Arsenic	0.033	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+14445	200304	336	Chicken breast, fried, fast-food (w/ skin)	O			Arsenic	0.019	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+14477	200304	338	Chicken leg, fried, fast-food  (w/ skin)	O			Arsenic	0.03	mg/kg	TR	0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+14509	200304	340	Tuna, canned in water, drained	O			Arsenic	0.419	mg/kg		0.012	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+14645	200304	350	Fruit juice blend (100% juice), canned/bottled	O			Arsenic	0.008	mg/kg	TR	0.008	0.03		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+14750	200304	357	Lettuce, leaf, raw	O			Arsenic	0.008	mg/kg	TR	0.008	0.03		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+14856	200304	364	Fried rice, meatless, from Chinese carry-out	O			Arsenic	0.051	mg/kg		0.01	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+14932	200304	369	Cake, yellow w/ icing	O			Arsenic	0.027999999999999997	mg/kg	TR	0.012	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341
+14947	200304	370	Granola bar, w/ raisins	O			Arsenic	0.021	mg/kg	TR	0.012	0.04		KCM TD M2 & E5 (HGAAS; As & Se; Food)	HGAAS	341

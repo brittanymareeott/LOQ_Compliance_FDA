@@ -14,9 +14,13 @@ parser.add_argument('--file', required=True, help='The Total Diet Study file to 
 parser.add_argument('--analyte', required=True, help='The analyte that is to be extracted, e.g. Arsenic.')
 parser.add_argument('--type', required=True, help='The type of analyte that the Total Diet Study input file is measuring, e.g. Element.')
 parser.add_argument('--number', required=False, help='optional: The Food Number associated with a specific food.')
-parser.add_argument('--cutoff', required=False, help='optional: Specifiy a new cut-off concentration, default=0.')
+parser.add_argument('--cutoff', required=False, type=float, help='optional: Specifiy a new cut-off concentration, default=0.')
 args = parser.parse_args()
 
-print(args.number)
+float(args.cutoff)
+
+print(type(args.cutoff))
+
+print(args.cutoff)
 
 print(args)
