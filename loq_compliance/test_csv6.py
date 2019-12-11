@@ -15,8 +15,8 @@ import chardet
 # Parsing arguments with argparse
 parser = argparse.ArgumentParser(description = 'This script allows data selection for various requested analytes from Total Diet Studies at the FDA.')
 parser.add_argument('--file', required=True, help='The Total Diet Study file to be analyzed.')
-parser.add_argument('--analyte', required=True, help='The analyte that is to be extracted, e.g. Arsenic.')
-parser.add_argument('--type', required=True, help='The type of analyte that the Total Diet Study input file is measuring, e.g. Element.')
+parser.add_argument('--analyte', required=True, help='The analyte that is to be extracted, e.g. Arsenic. CASE SENSITIVE.')
+parser.add_argument('--type', required=True, help='The type of analyte that the Total Diet Study input file is measuring, e.g. Element. CASE SENSITIVE.')
 parser.add_argument('--number', required=False, help='optional: The Food Number associated with a specific food.')
 parser.add_argument('--cutoff', required=False, type=float, help='optional: Specifiy a new cut-off concentration, default=None.')
 parser.add_argument('--filename', required=False, default='outfile', help='optional: name of the file, default=outfile.txt, output as TSV')
