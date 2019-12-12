@@ -7,3 +7,5 @@ Additionally, detection of these analytes usually has a limit depending on what 
 Finally, an additional file is output where all samples that meet the analyte criteria where there was no detection of the analyte (concentration = 0), as this information is just as important.
 
 This script will hopefully speed up data analysis in regards to Total Diet Studies.
+
+Please refer to the [LOQ Compliance Folder](https://github.com/brittanymareeott/LOQ_Compliance_FDA/tree/master/loq_compliance) for the latest version of the working script as well as an example file to work with (`Elements_2003.txt`).
