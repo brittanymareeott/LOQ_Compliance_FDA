@@ -1,6 +1,39 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+############################# Documentation #############################
+#  test_csv6.py													  		#
+#																	    #
+# Author: Brittany M. Ott										 	    #
+#																 		#
+# This script allows the user to parse down a .tsv file produced  		#
+# by the Total Diet Study at the FDA. It produces two files:	  		#
+# 1) An output `.txt` file that contains all samples where the	  		#
+# concentration of the analyte of interest is greater than the	  		#
+# sample's LOQ (limit of quantitation); and 2) An output `.txt`   		#
+# file containing all samples where the analyte requested is not  		#
+# detected.																#
+#																		#
+# For documentation used to generate this script, please visit:			#
+# * Python's argparse page:												#
+# https://docs.python.org/dev/library/argparse.html#argparse.Namespace	#
+# * Pandas's API reference page:										#
+# https://pandas.pydata.org/pandas-docs/stable/reference/index.html		#
+# * PyPi's chardet page:												#
+# https://pypi.org/project/chardet/										#
+#																		#
+# The script takes 3 required arguments:								#
+# 1) --file | The Total Diet Study file that is to be analyzed (`.txt`) #
+# 2) --analyte | The analyte to be extracted (e.g. Arsenic), this is	#
+# case sensitive														#
+# 3) --type | The type of analyte that the Total Diet study is			#
+# examining (e.g. Element), this is case sensitive						#
+#																		#
+# usage: test_csv6.py [-h] --file FILE --analyte ANALYTE --type TYPE	#
+# [--number NUMBER] [--cutoff CUTOFF] [--filename FILENAME]				#
+#########################################################################
+
+
 # import the necessary packages
 import csv
 import pandas as pd
