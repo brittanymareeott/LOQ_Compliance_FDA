@@ -36,7 +36,7 @@
 # output files; default=outfile.txt and nodetect.txt, output as TSV     #
 #                                                                       #
 # usage: python test_csv6.py [-h] --file FILE --analyte ANALYTE         # 
-# --type TYPE [--number NUMBER] [--cutoff CUTOFF] [--filename FILENAME] #
+# --type TYPE [--cutoff CUTOFF] [--filename FILENAME]                   #
 #########################################################################
 
 
