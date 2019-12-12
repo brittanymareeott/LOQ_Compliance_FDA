@@ -35,8 +35,8 @@
 # 2) --filename | This allows the user to specify a file name for the   #
 # output files; default=outfile.txt and nodetect.txt, output as TSV     #
 #                                                                       #
-# usage: test_csv6.py [-h] --file FILE --analyte ANALYTE --type TYPE    #
-# [--number NUMBER] [--cutoff CUTOFF] [--filename FILENAME]             #
+# usage: python test_csv6.py [-h] --file FILE --analyte ANALYTE         # 
+# --type TYPE [--number NUMBER] [--cutoff CUTOFF] [--filename FILENAME] #
 #########################################################################
 
 
