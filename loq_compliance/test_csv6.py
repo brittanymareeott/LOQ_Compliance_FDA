@@ -20,7 +20,7 @@
 # * Pandas's API reference page:                                        #
 # https://pandas.pydata.org/pandas-docs/stable/reference/index.html     #
 # * PyPi's chardet page:                                                #
-# https://chardet.readthedocs.io/en/latest/usage.html#basic-usage       #
+# https://chardet.readthedocs.io/en/latest/                             #
 #                                                                       #
 # The script takes 3 required arguments:                                #
 # 1) --file | The Total Diet Study file that is to be analyzed (`.txt`) #
