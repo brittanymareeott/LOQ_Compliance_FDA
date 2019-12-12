@@ -93,8 +93,6 @@ else:
 
 No_detect = df_remove[df_remove['Conc'] == 0]
 
-# tests 
-
 #### Generating the output file ####
 
 # Code for printing LOQ compliant to a file 
