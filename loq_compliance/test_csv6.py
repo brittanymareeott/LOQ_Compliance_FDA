@@ -68,7 +68,7 @@ rawdata = open(args.file, 'rb').read()
 result = chardet.detect(rawdata)
 charenc = result['encoding']
 
-##### Processing the Data #####
+### Processing the Data ###
 
 # reading in the file
 file = pd.read_csv(args.file, sep='\t', encoding=charenc)
