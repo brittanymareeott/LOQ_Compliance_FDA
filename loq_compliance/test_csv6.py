@@ -29,6 +29,12 @@
 # 3) --type | The type of analyte that the Total Diet study is			#
 # examining (e.g. Element), this is case sensitive						#
 #																		#
+# This script currently also takes two arguments that are optional:		#
+# 1) --cutoff | This allows the user to specify a new cutoff			#
+# concentration; default=None											#
+# 2) --filename | This allows the user to specify a file name for the	#
+# output files; default=outfile.txt and nodetect.txt, output as TSV		#
+#																		#
 # usage: test_csv6.py [-h] --file FILE --analyte ANALYTE --type TYPE	#
 # [--number NUMBER] [--cutoff CUTOFF] [--filename FILENAME]				#
 #########################################################################
@@ -50,9 +56,9 @@ parser = argparse.ArgumentParser(description = 'This script allows data selectio
 parser.add_argument('--file', required=True, help='The Total Diet Study file to be analyzed.')
 parser.add_argument('--analyte', required=True, help='The analyte that is to be extracted, e.g. Arsenic. CASE SENSITIVE.')
 parser.add_argument('--type', required=True, help='The type of analyte that the Total Diet Study input file is measuring, e.g. Element. CASE SENSITIVE.')
-parser.add_argument('--number', required=False, help='optional: The Food Number associated with a specific food.')
+# parser.add_argument('--number', required=False, help='optional: The Food Number associated with a specific food.')
 parser.add_argument('--cutoff', required=False, type=float, help='optional: Specifiy a new cut-off concentration, default=None.')
-parser.add_argument('--filename', required=False, default='outfile', help='optional: name of the file, default=outfile.txt, output as TSV')
+parser.add_argument('--filename', required=False, default='outfile', help='optional: name of the file, default=outfile.txt and nodetect.txt, output as TSV')
 args = parser.parse_args()
 
 #### Cleaning up the data ####
@@ -79,6 +85,7 @@ df_remove = df1[df1['Sample Qualifier'].str.contains('UAP', '', na=True, regex=F
 #### LOQ compliance ####
 
 # generating a dataframe that compares the concentration detected to a cut off
+# *note*: currently working on a way to compare the new cutoff with the LOQ column
 if args.cutoff == None:
 	LOQ_compliant = df_remove[df_remove['Conc'] > df_remove['LOQ']] # if no cutoff is provided
 else:
